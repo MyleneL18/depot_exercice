@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI
+xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:ns="http://www.tei-c.org/ns/1.0"
+><teiHeader
+><fileDesc
+><titleStmt
+><title
+>Rien ne t'efface</title
+><author
+>Michel Bussi</author
+></titleStmt
+><publicationStmt
+><date
+>2021</date
+><publisher
+>Les Presses de la Cité</publisher
+></publicationStmt
+><sourceDesc
+><p
+></p
+></sourceDesc
+></fileDesc
+></teiHeader
+><text
+><body
+><head
+>Rien ne t'efface</head
+><div
+n="1"
+type="âge"
+><title
+>L'âme infantile</title
+></div
+><p
+>Laisse-moi t'expliquer, Maddi. Ce n'est pas si compliqué. les âmes infantiles sont les âmes qui commencent leur voyage. Elles découvrent la vie, la mort. Leur seul but à ce stade, c'est d'apprendre à survivre. </p
+></body
+></text
+></TEI
+>
