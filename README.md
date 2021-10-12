@@ -12,7 +12,6 @@ Après avoir installé GitHub Desktop :
 * Corriger les erreurs, puis pusher la version corrigée du dépôt en ligne
 * Faites une pull request et fermez les issues si votre camarade accepte la pull request (il/elle peut très bien la refuser en justifiant pourquoi)
 
-Je vérifierai directement ce que vous avez fait sur GitHub.
 ### Créer un nouveau dépôt
 
 Créatrice du dépôt : Mylène Langlois
