@@ -33,9 +33,25 @@ xmlns:ns="http://www.tei-c.org/ns/1.0"
 n="1"
 type="chapitre"
 ><title
->1. Inej</title
+>1. Retvenko</title
 ><p
 >Penché sur le bar, Retvenko plongeait son nez dans son verre sale. Son whisky n'avait pas réussi à le réchauffer.</p
+><sp
+who="Retvenko"
+><l
+>Dis-moi,<stage
+>lança Retvenko avec son kerch encore plus mauvais que d'ordinaire, à cause de l'alcool. </stage
+>Pourquoi ça schlingue autant, ici? Comme soupe pourrie, évier rempli vaisselle crade. </l
+></sp
+><sp
+who="barman"
+><l
+>Un autre? <stage
+>demanda le barman en montrant le verre vide de Retvenko. </stage
+></l
+><l
+>Keterdam, faut t'y faire. </l
+></sp
 ></div
 ></body
 ></text
